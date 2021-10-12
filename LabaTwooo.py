@@ -1,0 +1,11 @@
+userName = input("ФИО -")
+F = input("Факультет -")
+C = input("Курс -")
+G = input("Группа -")
+Email = input("Email -")
+print('ФИО - ' + userName)
+print('Факультет - ' + F)
+print('Курс - ' + C)
+print('Группа - ' + G)
+print('Email - ' + Email)
+
